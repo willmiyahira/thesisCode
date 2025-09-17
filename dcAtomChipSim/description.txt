@@ -1,1 +1,2 @@
-
+This is the Python code used to model the DC Zeeman trapping potential for the DC operation of the novel microwave atom chip. 
+It generates the magnetic fields from infinitely thin wires and converts it into a DC trapping potential.
